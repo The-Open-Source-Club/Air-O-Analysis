@@ -1,6 +1,6 @@
 # Air-O-Analysis
 
-Air-O-Analysis is a django web app which calculates the best Air Quality Index for a given location by comparing data from multiple ground based sensors and data from Earth Observation  satellites. The statistical algorithm used to perform this is explained [here.](https://github.com/ayushprd/Air-O-Analysis/blob/master/Algorithm/variance.py)
+Air-O-Analysis is a django web app which calculates the most accurate Air Quality Index for a given location by comparing data from multiple ground based sensors and data from Earth Observation  satellites. The statistical algorithm used to perform this is explained [here.](https://github.com/ayushprd/Air-O-Analysis/blob/master/Algorithm/variance.py)
 
 ## Installation instructions:
 
